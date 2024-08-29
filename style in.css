@@ -1,0 +1,60 @@
+*
+{
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+div{
+    font-size:25px;
+    text-align:center;
+    button-color:blue;
+}
+h1{
+    text-align:center;
+}
+button{
+    height: 50px;
+    border-radius:20%;
+    font-weight:bold;
+    color:orange;
+    width:20%;
+}
+button:hover{
+    background-color:grey;
+    color:#758000;
+    border radius:0%;
+    transition-duration:2s;
+     
+
+}
+button{
+    border: 4px blue;
+    height:50px;
+    border-radius:50%;
+    font-size:20;
+    text align:center;
+    width:30%;
+}
+button:hover{
+    background-color:grey;
+    color:#804400;
+    border-radius:20%;
+    transition-duration:2s;
+     width:20%;
+     hieght:50px;
+
+}
+button:active
+{
+background-color: rgb(112, 79, 9) ;
+}
+ul{
+    text-align: right;
+}
+li{
+display:inline;
+border:40px ;
+background-color: rgb(62, 138, 168);
+margin: 16px;
+border-radius: 50px;
+
+}
